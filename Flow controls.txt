@@ -1,0 +1,41 @@
+    Flow control in Python
+
+
+Mainly 6 flow controls
+>if-else
+>Nested if-else
+>For
+>While
+>Break
+>continue
+
+If-else:-
+Syntax: 
+If(condition):
+              statement 1
+….
+       else:
+              statement 2
+….
+ 
+Nested if-else:-
+If (condition 1):
+         statement 1….
+    elif (condition 2):
+           statement 2 ….
+    else
+            statement 3….
+
+For:-
+For iterating_var in sequence:
+Execute statements
+
+While:-
+While (condition is True):
+        statement1…
+
+Break:-
+It is used to break the loop
+
+Continue:-
+It wont break the loop,but will continue the loop.
