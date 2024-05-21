@@ -46,3 +46,12 @@ To install the required libraries, you can use the `requirements.txt` file provi
 
 ```bash
 pip install -r requirements.txt
+
+Pandas
+import pandas as pd
+
+# Load a CSV file
+df = pd.read_csv('data.csv')
+
+# Display the first few rows
+print(df.head())
