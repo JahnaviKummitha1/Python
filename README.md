@@ -55,3 +55,12 @@ df = pd.read_csv('data.csv')
 
 # Display the first few rows
 print(df.head())
+
+Matplotlib
+import matplotlib.pyplot as plt
+
+# Create a simple plot
+plt.plot([1, 2, 3, 4])
+plt.ylabel('some numbers')
+plt.show()
+
